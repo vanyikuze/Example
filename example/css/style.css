@@ -1,0 +1,35 @@
+#phone{
+    height: 100vh;
+    background-image: url(../img/fooooddd);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#samsung{
+    height: 100vh;
+}
+.note{
+    background-color: green;
+    height: 100vh;
+}
+.galaxy{
+    height: 100vh;
+    background-image: url('../img/fooooddd');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    color: purple;
+}
+.main-header{
+    text-align: center;
+}
+.navigation-bar > ul{
+    display: flex;
+    justify-content: space-around
+}
+.navigation-bar > ul > li{
+    border: 1px solid blue;
+    list-style-type: none;
+    padding: 5px;
+    border-radius: 5px;
+}
